@@ -91,7 +91,7 @@ export const DashboardPreview: React.FC = () => {
             action: () => navigate('/patient/appointments')
         })),
         ...medicationsDueToday.slice(0, 2).map(med => ({
-            time: med.time.split(',')[0] || '09:00 AM',
+            time: med.time ? med.time.split(',')[0] : '09:00 AM',
             type: 'medication',
             title: `Take ${med.name}`,
             subtitle: med.dosage,
