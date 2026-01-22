@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from 'react';
-import { HashRouter as Router, Routes, Route, Link, useLocation, Navigate, useNavigate, Outlet } from 'react-router-dom';
+import { BrowserRouter as Router, Routes, Route, Link, useLocation, Navigate, useNavigate, Outlet } from 'react-router-dom';
 import {
   LayoutDashboard, FileText, Activity, MessageSquare, Menu, X,
   LogOut, UserCircle, Stethoscope, ChevronRight, Search, Bell, Settings,

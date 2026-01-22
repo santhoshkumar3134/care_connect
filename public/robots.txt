@@ -1,0 +1,9 @@
+User-agent: *
+Allow: /
+Allow: /login
+Allow: /patient/
+Allow: /doctor/
+
+Disallow: /admin/
+
+Sitemap: https://careconnect-health.vercel.app/sitemap.xml
