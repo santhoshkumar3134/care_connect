@@ -1,0 +1,3 @@
+﻿src/pages/patient/AccessControl.tsx(126,56): error TS2322: Type '{ children: Element; title: string; icon: ForwardRefExoticComponent<Omit<LucideProps, "ref"> & RefAttributes<SVGSVGElement>>; }' is not assignable to type 'IntrinsicAttributes & CardProps'.
+  Property 'icon' does not exist on type 'IntrinsicAttributes & CardProps'.
+src/pages/patient/AccessControl.tsx(160,37): error TS2322: Type '"dashed"' is not assignable to type '"primary" | "secondary" | "outline" | "ghost" | "danger"'.

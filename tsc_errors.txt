@@ -1,0 +1,45 @@
+﻿src/pages/doctor/Chat.tsx(100,50): error TS2322: Type '{ children: (string | number)[]; variant: "neutral"; className: string; }' is not assignable to type 'IntrinsicAttributes & { children: ReactNode; variant?: "error" | "success" | "warning" | "neutral" | "info"; }'.
+  Property 'className' does not exist on type 'IntrinsicAttributes & { children: ReactNode; variant?: "error" | "success" | "warning" | "neutral" | "info"; }'.
+src/pages/doctor/Chat.tsx(195,53): error TS2322: Type '"icon"' is not assignable to type '"sm" | "md" | "lg"'.
+src/pages/doctor/Chat.tsx(198,53): error TS2322: Type '"icon"' is not assignable to type '"sm" | "md" | "lg"'.
+src/pages/doctor/Chat.tsx(278,37): error TS2322: Type '"icon"' is not assignable to type '"sm" | "md" | "lg"'.
+src/pages/doctor/Dashboard.tsx(71,98): error TS2322: Type '{ children: Element[]; key: number; className: string; onClick: () => void | Promise<void>; }' is not assignable to type 'IntrinsicAttributes & { children: ReactNode; className?: string; title?: string; action?: ReactNode; }'.
+  Property 'onClick' does not exist on type 'IntrinsicAttributes & { children: ReactNode; className?: string; title?: string; action?: ReactNode; }'.
+src/pages/patient/AccessControl.tsx(126,56): error TS2322: Type '{ children: Element; title: string; icon: ForwardRefExoticComponent<Omit<LucideProps, "ref"> & RefAttributes<SVGSVGElement>>; }' is not assignable to type 'IntrinsicAttributes & { children: ReactNode; className?: string; title?: string; action?: ReactNode; }'.
+  Property 'icon' does not exist on type 'IntrinsicAttributes & { children: ReactNode; className?: string; title?: string; action?: ReactNode; }'.
+src/pages/patient/AccessControl.tsx(160,37): error TS2322: Type '"dashed"' is not assignable to type '"primary" | "secondary" | "outline" | "ghost" | "danger"'.
+src/pages/patient/Analytics.tsx(204,36): error TS2322: Type '"outline"' is not assignable to type '"error" | "success" | "warning" | "neutral" | "info"'.
+src/pages/patient/Analytics.tsx(235,40): error TS2322: Type '"outline"' is not assignable to type '"error" | "success" | "warning" | "neutral" | "info"'.
+src/pages/patient/Analytics.tsx(333,40): error TS2322: Type '{ children: string; className: string; }' is not assignable to type 'IntrinsicAttributes & { children: ReactNode; variant?: "error" | "success" | "warning" | "neutral" | "info"; }'.
+  Property 'className' does not exist on type 'IntrinsicAttributes & { children: ReactNode; variant?: "error" | "success" | "warning" | "neutral" | "info"; }'.
+src/pages/patient/AnalyticsPreview.tsx(186,44): error TS2322: Type '{ children: string; className: string; }' is not assignable to type 'IntrinsicAttributes & { children: ReactNode; variant?: "error" | "success" | "warning" | "neutral" | "info"; }'.
+  Property 'className' does not exist on type 'IntrinsicAttributes & { children: ReactNode; variant?: "error" | "success" | "warning" | "neutral" | "info"; }'.
+src/pages/patient/DashboardPreview.tsx(144,44): error TS2322: Type '{ children: (string | Element)[]; className: string; }' is not assignable to type 'IntrinsicAttributes & { children: ReactNode; variant?: "error" | "success" | "warning" | "neutral" | "info"; }'.
+  Property 'className' does not exist on type 'IntrinsicAttributes & { children: ReactNode; variant?: "error" | "success" | "warning" | "neutral" | "info"; }'.
+src/pages/patient/DashboardPreview.tsx(200,48): error TS2322: Type '{ children: string; className: string; }' is not assignable to type 'IntrinsicAttributes & { children: ReactNode; variant?: "error" | "success" | "warning" | "neutral" | "info"; }'.
+  Property 'className' does not exist on type 'IntrinsicAttributes & { children: ReactNode; variant?: "error" | "success" | "warning" | "neutral" | "info"; }'.
+src/pages/patient/Messages.tsx(110,50): error TS2322: Type '{ children: (string | number)[]; variant: "neutral"; className: string; }' is not assignable to type 'IntrinsicAttributes & { children: ReactNode; variant?: "error" | "success" | "warning" | "neutral" | "info"; }'.
+  Property 'className' does not exist on type 'IntrinsicAttributes & { children: ReactNode; variant?: "error" | "success" | "warning" | "neutral" | "info"; }'.
+src/pages/patient/Messages.tsx(210,57): error TS2322: Type '"icon"' is not assignable to type '"sm" | "md" | "lg"'.
+src/pages/patient/Messages.tsx(213,57): error TS2322: Type '"icon"' is not assignable to type '"sm" | "md" | "lg"'.
+src/pages/patient/Messages.tsx(217,57): error TS2322: Type '"icon"' is not assignable to type '"sm" | "md" | "lg"'.
+src/pages/patient/Messages.tsx(296,41): error TS2322: Type '"icon"' is not assignable to type '"sm" | "md" | "lg"'.
+src/pages/patient/Messages.tsx(302,75): error TS2322: Type '"icon"' is not assignable to type '"sm" | "md" | "lg"'.
+src/pages/patient/Nutrition.tsx(187,54): error TS2322: Type '{ children: string; variant: "success"; className: string; }' is not assignable to type 'IntrinsicAttributes & { children: ReactNode; variant?: "error" | "success" | "warning" | "neutral" | "info"; }'.
+  Property 'className' does not exist on type 'IntrinsicAttributes & { children: ReactNode; variant?: "error" | "success" | "warning" | "neutral" | "info"; }'.
+src/pages/patient/Nutrition.tsx(371,53): error TS2322: Type '{ children: any; variant: "neutral"; className: string; }' is not assignable to type 'IntrinsicAttributes & { children: ReactNode; variant?: "error" | "success" | "warning" | "neutral" | "info"; }'.
+  Property 'className' does not exist on type 'IntrinsicAttributes & { children: ReactNode; variant?: "error" | "success" | "warning" | "neutral" | "info"; }'.
+src/pages/patient/Prediction.tsx(138,44): error TS2322: Type '{ children: string | number; className: string; }' is not assignable to type 'IntrinsicAttributes & { children: ReactNode; variant?: "error" | "success" | "warning" | "neutral" | "info"; }'.
+  Property 'className' does not exist on type 'IntrinsicAttributes & { children: ReactNode; variant?: "error" | "success" | "warning" | "neutral" | "info"; }'.
+src/pages/patient/Prediction.tsx(216,53): error TS2322: Type '{ children: string[]; className: string; variant: "neutral"; }' is not assignable to type 'IntrinsicAttributes & { children: ReactNode; variant?: "error" | "success" | "warning" | "neutral" | "info"; }'.
+  Property 'className' does not exist on type 'IntrinsicAttributes & { children: ReactNode; variant?: "error" | "success" | "warning" | "neutral" | "info"; }'.
+src/pages/PatientRecords.tsx(2424,67): error TS2322: Type 'string' is not assignable to type '"LAB"'.
+src/pages/PatientRecords.tsx(3060,48): error TS2322: Type '{ children: string; variant: "error"; className: string; }' is not assignable to type 'IntrinsicAttributes & { children: ReactNode; variant?: "error" | "success" | "warning" | "neutral" | "info"; }'.
+  Property 'className' does not exist on type 'IntrinsicAttributes & { children: ReactNode; variant?: "error" | "success" | "warning" | "neutral" | "info"; }'.
+src/pages/PatientRecords.tsx(3503,44): error TS2322: Type '{ children: string; variant: "success"; className: string; }' is not assignable to type 'IntrinsicAttributes & { children: ReactNode; variant?: "error" | "success" | "warning" | "neutral" | "info"; }'.
+  Property 'className' does not exist on type 'IntrinsicAttributes & { children: ReactNode; variant?: "error" | "success" | "warning" | "neutral" | "info"; }'.
+src/pages/PatientRecords.tsx(3505,26): error TS2322: Type '"danger"' is not assignable to type '"error" | "success" | "warning" | "neutral" | "info"'.
+src/pages/PatientRecords.tsx(3507,41): error TS2322: Type '{ children: string; variant: "info"; className: string; }' is not assignable to type 'IntrinsicAttributes & { children: ReactNode; variant?: "error" | "success" | "warning" | "neutral" | "info"; }'.
+  Property 'className' does not exist on type 'IntrinsicAttributes & { children: ReactNode; variant?: "error" | "success" | "warning" | "neutral" | "info"; }'.
+src/pages/PatientRecords.tsx(3509,44): error TS2322: Type '{ children: string; variant: "neutral"; className: string; }' is not assignable to type 'IntrinsicAttributes & { children: ReactNode; variant?: "error" | "success" | "warning" | "neutral" | "info"; }'.
+  Property 'className' does not exist on type 'IntrinsicAttributes & { children: ReactNode; variant?: "error" | "success" | "warning" | "neutral" | "info"; }'.
