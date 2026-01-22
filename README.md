@@ -474,7 +474,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **Santhosh Kumar**
 - GitHub: [@santhoshkumar3134](https://github.com/santhoshkumar3134)
-- Email: santhosh@example.com
+- Email: santhosh123.2004@gmail.com
 
 ---
 
